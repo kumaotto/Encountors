@@ -1,0 +1,268 @@
+{
+  "identifier" : "F989CBA5",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "500",
+      "familyShareable" : false,
+      "internalID" : "5408B86B",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "",
+          "displayName" : "５いいね",
+          "locale" : "ja"
+        }
+      ],
+      "productID" : "com.temporary.id.5like",
+      "referenceName" : "5like",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "800",
+      "familyShareable" : false,
+      "internalID" : "072E0C7A",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "",
+          "displayName" : "10いいね",
+          "locale" : "ja"
+        }
+      ],
+      "productID" : "com.temporary.id.10like",
+      "referenceName" : "10like",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "1500",
+      "familyShareable" : false,
+      "internalID" : "471E1777",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "",
+          "displayName" : "20いいね",
+          "locale" : "ja"
+        }
+      ],
+      "productID" : "com.temporary.id.20like",
+      "referenceName" : "20like",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "3000",
+      "familyShareable" : false,
+      "internalID" : "30CC4477",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "",
+          "displayName" : "50いいね",
+          "locale" : "ja"
+        }
+      ],
+      "productID" : "com.temporary.id.50like",
+      "referenceName" : "50like",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "100",
+      "familyShareable" : false,
+      "internalID" : "66368C3A",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "",
+          "displayName" : "1既読",
+          "locale" : "ja"
+        }
+      ],
+      "productID" : "com.temporary.id.1read",
+      "referenceName" : "1read",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "200",
+      "familyShareable" : false,
+      "internalID" : "2CB53A17",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "",
+          "displayName" : "3既読",
+          "locale" : "ja"
+        }
+      ],
+      "productID" : "com.temporary.id.3read",
+      "referenceName" : "3read",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "300",
+      "familyShareable" : false,
+      "internalID" : "A366CF9C",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "",
+          "displayName" : "5既読",
+          "locale" : "ja"
+        }
+      ],
+      "productID" : "com.temporary.id.5read",
+      "referenceName" : "5read",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "500",
+      "familyShareable" : false,
+      "internalID" : "38DDE465",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "",
+          "displayName" : "10既読",
+          "locale" : "ja"
+        }
+      ],
+      "productID" : "com.temporary.id.10read",
+      "referenceName" : "10read",
+      "type" : "Consumable"
+    }
+  ],
+  "settings" : {
+    "_locale" : "ja",
+    "_storefront" : "JPN"
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "E2E3D542",
+      "localizations" : [
+
+      ],
+      "name" : "PlanSubscriber",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "displayPrice" : "12120",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "0896882E",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "",
+              "displayName" : "12month plan",
+              "locale" : "en_US"
+            },
+            {
+              "description" : "",
+              "displayName" : "12ヶ月プラン",
+              "locale" : "ja"
+            }
+          ],
+          "productID" : "com.temporary.id.12month",
+          "recurringSubscriptionPeriod" : "P1Y",
+          "referenceName" : "12month plan",
+          "subscriptionGroupID" : "E2E3D542",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "displayPrice" : "9180",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "4C9A8680",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "",
+              "displayName" : "6month plan",
+              "locale" : "en_US"
+            },
+            {
+              "description" : "",
+              "displayName" : "6ヶ月プラン",
+              "locale" : "ja"
+            }
+          ],
+          "productID" : "com.temporary.id.6month",
+          "recurringSubscriptionPeriod" : "P6M",
+          "referenceName" : "6month plan",
+          "subscriptionGroupID" : "E2E3D542",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "displayPrice" : "6120",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "DBD23C7E",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "",
+              "displayName" : "3month plan",
+              "locale" : "en_US"
+            },
+            {
+              "description" : "",
+              "displayName" : "3ヶ月プラン",
+              "locale" : "ja"
+            }
+          ],
+          "productID" : "com.temporary.id.3month",
+          "recurringSubscriptionPeriod" : "P3M",
+          "referenceName" : "3month plan",
+          "subscriptionGroupID" : "E2E3D542",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 1
+  }
+}
